@@ -3,5 +3,6 @@ langchain-core>=0.1.30
 langchain-community>=0.0.30
 langchain-openai>=0.1.0
 pypdf
+fpdf2
 streamlit
 python-dotenv
